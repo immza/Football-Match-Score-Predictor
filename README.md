@@ -7,21 +7,21 @@ The models were namely:
 Result Analysis:
 
 For Logistic Regression Model:
-![lrm](/images/LR_Result)
+![lrm](/images/LR_Result.png)
 
 
 
 
 For Random Forest Classifier Model:
-![rfc](/images/RFR_Result)
+![rfc](/images/RFR_Result.png)
 
 
 
 
 
 For Gaussian Naive Bayes Model:
-![gnb](/images/GNB_Result)
+![gnb](/images/GNB_Result.png)
 
 
 Result Comparison:
-![compare](/images/comparison_analysis)
+![compare](/images/comparison_analysis.png)
